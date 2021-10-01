@@ -106,4 +106,16 @@ The model was trained in **fairseq** on 4 x Nvidia A100 GPUs for 300K steps with
 Gerulata uses near real-time monitoring, advanced analytics and machine learning to help create a safer, more productive and enjoyable online environment for everyone.
 
 ### BibTeX entry and citation info
-- to be completed
+If you find our resource or paper is useful, please consider including the following citation in your paper.
+- https://arxiv.org/abs/2109.15254
+
+```
+@misc{pikuliak2021slovakbert,
+      title={SlovakBERT: Slovak Masked Language Model}, 
+      author={Matúš Pikuliak and Štefan Grivalský and Martin Konôpka and Miroslav Blšták and Martin Tamajka and Viktor Bachratý and Marián Šimko and Pavol Balážik and Michal Trnka and Filip Uhlárik},
+      year={2021},
+      eprint={2109.15254},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
