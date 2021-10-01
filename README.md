@@ -9,6 +9,12 @@ You can use the raw model for masked language modeling, but it's mostly intended
 **IMPORTANT**: The model was not trained on the “ and ” (direct quote) character -> so before tokenizing the text, it is advised to replace all “ and ” (direct quote marks) with a single "(double quote marks).
 
 ## How to save tokenizer & model locally:
+Two ways to download the model:
+Git repository:
+```bash
+git clone https://huggingface.co/gerulata/slovakbert
+```
+Python (save from download cache):
 ```python
 from transformers import RobertaTokenizer, RobertaModel
 tokenizer = RobertaTokenizer.from_pretrained('gerulata/slovakbert')
