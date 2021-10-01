@@ -10,6 +10,7 @@ You can use the raw model for masked language modeling, but it's mostly intended
 
 ## How to save tokenizer & model locally:
 Two ways to download the model:
+
 Git repository:
 ```bash
 git clone https://huggingface.co/gerulata/slovakbert
