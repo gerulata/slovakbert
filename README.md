@@ -5,7 +5,7 @@ SlovakBERT pretrained model on Slovak language using a masked language modeling 
 https://huggingface.co/gerulata/slovakbert
 
 ## SlovakBERT Auxiliary Repository:
-Auxiliary files for SlovakBERT release providing additional data related to the released paper.
+Auxiliary files for SlovakBERT release providing additional data related to the released paper.  
 https://github.com/kinit-sk/slovakbert-auxiliary
 
 ## Intended uses & limitations
