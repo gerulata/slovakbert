@@ -4,6 +4,10 @@ SlovakBERT pretrained model on Slovak language using a masked language modeling 
 ## Model link:
 https://huggingface.co/gerulata/slovakbert
 
+## SlovakBERT Auxiliary Repository:
+Auxiliary files for SlovakBERT release providing additional data related to the released paper.
+https://github.com/kinit-sk/slovakbert-auxiliary
+
 ## Intended uses & limitations
 You can use the raw model for masked language modeling, but it's mostly intended to be fine-tuned on a downstream task.
 **IMPORTANT**: The model was not trained on the “ and ” (direct quote) character -> so before tokenizing the text, it is advised to replace all “ and ” (direct quote marks) with a single "(double quote marks).
